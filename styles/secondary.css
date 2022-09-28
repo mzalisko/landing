@@ -1,0 +1,14 @@
+.secondary {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.secondary .container {
+  display: flex;
+  justify-content: center;
+}
+.secondary .container__title {
+  margin-top: 320px;
+}
+
+/*# sourceMappingURL=secondary.css.map */
